@@ -1,6 +1,8 @@
 package net.cisco.miningmod;
 
 import com.mojang.logging.LogUtils;
+import net.cisco.miningmod.block.ModBlocks;
+import net.cisco.miningmod.item.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -21,6 +23,10 @@ public class MiningMod
     public MiningMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
     }

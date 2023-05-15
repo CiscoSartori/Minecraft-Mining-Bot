@@ -1,0 +1,10 @@
+{
+  "item.miningmod.zircon": "Zircon",
+  "item.miningmod.raw_zircon": "Raw Zircon",
+
+  "block.miningmod.zircon_block": "Block of Zircon",
+  "block.miningmod.zircon_ore": "Zircon Ore",
+  "block.miningmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
+  "itemGroup.minetab": "Zircon Tutorial Tab"
+}
