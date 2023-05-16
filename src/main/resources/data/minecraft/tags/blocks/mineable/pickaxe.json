@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "miningmod:zircon_ore",
+    "miningmod:zircon_block",
+    "miningmod:deepslate_zircon_ore",
+    "miningmod:endstone_zircon_ore",
+    "miningmod:netherrack_zircon_ore"
+  ]
+}

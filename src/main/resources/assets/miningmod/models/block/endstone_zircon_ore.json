@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "miningmod:block/endstone_zircon_ore"
+  }
+}

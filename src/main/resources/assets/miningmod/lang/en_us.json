@@ -1,10 +1,13 @@
 {
   "item.miningmod.zircon": "Zircon",
   "item.miningmod.raw_zircon": "Raw Zircon",
+  "item.miningmod.eight_ball": "Eight Ball",
 
   "block.miningmod.zircon_block": "Block of Zircon",
   "block.miningmod.zircon_ore": "Zircon Ore",
   "block.miningmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.miningmod.endstone_zircon_ore": "Endstone Zircon Ore",
+  "block.miningmod.netherrack_zircon_ore": "Netherrack Zircon Ore",
 
   "itemGroup.minetab": "Zircon Tutorial Tab"
 }
